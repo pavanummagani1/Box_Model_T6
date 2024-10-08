@@ -1,0 +1,41 @@
+.container{
+    width: 300px;
+    border-width: 5px;
+    border-style: groove;
+    border-radius: 30px;
+
+}
+.header{
+    height: 50px;
+    border-width: 3px;
+    border-style: groove;
+    margin: 10px;
+    background-color: #f7c3ac;
+}
+.logo{
+    height: 150px;
+    width: 150px;
+    border-style: groove;
+    margin: 10px;
+    border-radius:100px;
+    margin-left: 70px;
+    background-color: #cae2e9;
+}
+.name{
+    height: 30px;
+    width: 120px;
+    margin: 0px 0px 10px 85px;
+    border-width: 3px;
+    border-style: groove;
+    text-align: center;
+    padding-top: 10px;
+    background-color: #464356;
+}
+.email, .Contact{
+    height: 35px;
+    margin: 10px;
+    border-width: 3px;
+    border-style: groove;
+    background-color: #b8878a;
+
+}
